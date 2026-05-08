@@ -1,0 +1,16 @@
+2026-05-08 18:19:17.616530 - El nombre no puede estar vacío
+2026-05-08 18:19:17.617565 - Reserva confirmada correctamente
+2026-05-08 18:19:17.618135 - La duración debe ser positiva
+2026-05-08 18:19:17.619526 - Reserva confirmada correctamente
+2026-05-08 18:19:17.620393 - Reserva confirmada correctamente
+2026-05-08 18:19:17.621150 - Reserva cancelada
+2026-05-08 18:19:17.621942 - Reserva confirmada correctamente
+2026-05-08 18:19:17.622634 - La duración debe ser positiva
+2026-05-08 18:21:55.802812 - El nombre no puede estar vacío
+2026-05-08 18:21:55.803487 - Reserva confirmada correctamente
+2026-05-08 18:21:55.804002 - La duración debe ser positiva
+2026-05-08 18:21:55.804740 - Reserva confirmada correctamente
+2026-05-08 18:21:55.806129 - Reserva confirmada correctamente
+2026-05-08 18:21:55.806614 - Reserva cancelada
+2026-05-08 18:21:55.807541 - Reserva confirmada correctamente
+2026-05-08 18:21:55.808196 - La duración debe ser positiva
